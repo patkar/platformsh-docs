@@ -5,6 +5,7 @@
 * [Build & Deploy](overview/how-it-works.md)
 * [Tools](overview/tools.md)
 * [CLI](overview/cli.md)
+  * [Commands](overview/cli-commands.md)
 * [Pricing](overview/pricing.md)
 * [Getting help](overview/getting-help.md)
 
